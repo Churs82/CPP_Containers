@@ -1,2 +1,2 @@
 # CPP_Containers
-Education project some of cpp containers library
+Education project: some containers from cpp stl library
